@@ -1,0 +1,13 @@
+.signUpform
+{
+    background-color:#f3f1eb;
+    margin: auto;
+    margin-top:25px;
+    width:700px;
+    border-style: solid;
+    border-color: #bfb9b9
+}
+.field
+{
+    width:300px;
+}
